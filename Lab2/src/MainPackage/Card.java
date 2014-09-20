@@ -13,7 +13,9 @@ public class Card {
 		this.value = value;
 		this.suit = suit;
 	}
-
+/*the prompt says no public setters/getters...
+ * I'm going to delete these methods tomorrow if nobody objects.
+ */
 	public void setValue(Value value){
 		this.value = value;
 	}
